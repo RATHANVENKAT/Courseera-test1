@@ -39,4 +39,21 @@ body{
 }
 .btn{
 	background-color: blue;
+	width: 200px;
+	height:70px;}
+.tab-content {
+    border-left: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    padding: 10px;
+}
+.modal-title{
+	
+	font-weight: bold;
+	color: blue;
+}
+.modal-body{
+	font-weight: bold;
+	color: blue;
+	
 }
